@@ -1,10 +1,10 @@
 programa {
   funcao inicio() {
   
-		inteiro numero
+		inteiro x
 		
 		escreva("Digite um número : ")
-    leia(numero)
+    leia(x)
 		
 		
 		
