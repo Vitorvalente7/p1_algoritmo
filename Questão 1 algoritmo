@@ -1,13 +1,10 @@
 programa {
   funcao inicio() {
-  
-		inteiro x
-		
-		escreva("Digite um número : ")
+    inteiro x
+    
+    escreva("Digite um número: ")
     leia(x)
-		
-		
-		
-	} 
-  }
+    
+    escreva("O número digitado foi: ", x)
+  } 
 }
