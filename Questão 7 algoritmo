@@ -10,6 +10,6 @@ programa {
       meses = meses + 1
     }
     
-    escreva("Você atingirá a meta em ", meses, " meses.")
+    escreva("VocÃª atingirÃ¡ a meta em ", meses, " meses.")
   }
 }
